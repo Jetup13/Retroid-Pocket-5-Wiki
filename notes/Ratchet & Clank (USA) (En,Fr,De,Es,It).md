@@ -1,0 +1,3 @@
+Game|Region|Playable|Fixes/Notes:|Video
+:---|:----:|:------:|:----------|:---
+Ratchet & Clank|🇺🇸|🟩|Played until the Planet Kerwan level. some portions of the levels can initiate FPS drops. Such as the start of the Planet Kerwan level, corner before the train ride, and at the end of the train ride. Keep the upsacale resolution down to around 1.25x ~ 2x to minimizes the FPS drops.|[Video](https://www.youtube.com/watch?v=pzWcUUmaraE)
