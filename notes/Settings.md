@@ -8,13 +8,13 @@
 
 Setting|Fix
 :------|:---
-> GlideN64 > Less accurate blending mode > disable|Fixes rendering in GlideN64
+GlideN64 > Less accurate blending mode > disable|Fixes rendering in GlideN64
 
 # PSP
 
 * Place `compat.ini` in `PSP/system/` folder
 
-## Silent Hill Origins
+### Silent Hill Origins
 
 Possible light fix
 
