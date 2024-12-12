@@ -2,7 +2,7 @@ Game|Region|Playable|Fixes/Notes
 :---|:----:|:------:|:----------
 Metal Gear Solid 2 - Substance|🇺🇸|🟦|
 
-* Actual gameplay is more tna good. But if your a stickler with the openings issue try enabling these settings
+* Actual gameplay is more than good. But if your a stickler with the openings issue try enabling these settings
 
 Settings|Note
 :-------|:---
