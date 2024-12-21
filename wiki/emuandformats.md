@@ -194,7 +194,6 @@ Category|Information
 :-------|:----------
 Libretro Cores| VICE xpet
 Format|.d64, .zip, .7z, .t64, .crt, .prg, .nib, .tap|
-ES-DE Folder|
 
 ## Commodore PLUS/4
 Category|Information
