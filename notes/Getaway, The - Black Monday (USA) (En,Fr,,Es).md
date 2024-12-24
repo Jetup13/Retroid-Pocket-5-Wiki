@@ -1,6 +1,6 @@
 Game|Region|Playable|Fixes/Notes
 :---|:----:|:------:|:----------
-Getaway, The - Black Monday|🇺🇸|🟦|
+Getaway, The - Black Monday|🇺🇸|🟧|
 
 Settings|Note
 :-------|:---
