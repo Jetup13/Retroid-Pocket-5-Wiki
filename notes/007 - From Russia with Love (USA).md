@@ -1,6 +1,6 @@
 Game|Region|Playable|Fixes/Notes
 :---|:----:|:------:|:----------
-007 - From Russia with Love|🇺🇸|🟧|`Advanced Settings > Manual Hardware Fixes enabled & Skip Draw Start 1` to fix explosions
+007 - From Russia with Love|🇺🇸|🟧|
 
 Settings|Note
 :-------|:---
