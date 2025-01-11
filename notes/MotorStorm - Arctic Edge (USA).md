@@ -4,5 +4,5 @@ MotorStorm - Artic Edge|🇺🇸|🟦|Start of race can drop a few frames but mo
 
 Settings|Note
 :-------|:---
-Hardware Download Mode > Unsynchronized (Non-Deterministic)`
+Hardware Download Mode > Unsynchronized (Non-Deterministic)
 Graphics Settings > GPU Renderer > OpenGL
